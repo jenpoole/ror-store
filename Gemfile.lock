@@ -225,7 +225,7 @@ DEPENDENCIES
   html2haml
   jbuilder (~> 2.0)
   jquery-rails
-  mini_magick
+  mini_magick (~> 4.5, >= 4.5.1)
   minitest-rails
   pry-rails
   puma
